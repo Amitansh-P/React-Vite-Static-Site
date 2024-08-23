@@ -1,6 +1,16 @@
 # React + Vite
 This is just a React Static page
 
+#Click here :
+https://amitansh-p.github.io/React-Vite-Static-Site/
+
+
+
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
