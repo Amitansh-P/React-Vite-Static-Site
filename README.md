@@ -1,7 +1,7 @@
 # React + Vite
 This is just a React Static page
 
-#Click here :
+# Click here:
 https://amitansh-p.github.io/React-Vite-Static-Site/
 
 
